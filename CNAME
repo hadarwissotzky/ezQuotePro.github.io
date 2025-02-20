@@ -1,1 +1,3 @@
-www.ezquotepro.com
+git add CNAME
+git commit -m "Update CNAME"
+git push origin main
