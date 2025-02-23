@@ -13,16 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Streamline Social
+title: EZQuotePro.com
 phone: +1 (415) 497-9641
-email: hello@streamlinesocial.com
+email: support@ezquotepro.com
 description: >- # this means to ignore newlines until "baseurl:"
-  We are a full-service Agile product management and development company that helps companies build a turnkey
-  software product. Share with us your ideas and we will turn them into success.
+  EzQuote is a voice-powered solution designed for tradespeople to quickly capture job details and generate proposals, invoices, and change orders—no keyboard needed.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.streamlinesocial.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: strsocial
-github_username:  streamlinesocial
+url: "https://www.ezquotepro.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 google_analytics: UA-116903927-1
 
